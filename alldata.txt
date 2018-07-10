@@ -1,0 +1,192 @@
+wiki-talk-temporal.metis.graph
+node 1140149 arc 1654796
+2 cut
+ cut arc : 557514
+ iotime:      0.422165
+ format time: 0.776736
+ cmpt time:   0.367235
+ all time:    1.56614
+ balance 1.00
+3 cut
+ cut arc : 752884
+ iotime:      0.414701
+ format time: 0.763
+ cmpt time:   0.360604
+ all time:    1.5383
+ balance 1.00
+4 cut
+ cut arc : 954840
+ iotime:      0.415446
+ format time: 0.764373
+ cmpt time:   0.359514
+ all time:    1.53933
+ balance 1.00
+5 cut
+ cut arc : 1098297
+ iotime:      0.41635
+ format time: 0.766039
+ cmpt time:   0.354956
+ all time:    1.53734
+ balance 1.00
+10 cut
+ cut arc : 1245994
+ iotime:      0.416183
+ format time: 0.765728
+ cmpt time:   0.348792
+ all time:    1.5307
+ balance 1.00
+
+4elt.graph
+node 15606 arc 45878
+2 cut
+ cut arc : 7418
+ iotime:      0.0204798
+ format time: 0.0376294
+ cmpt time:   0.0151515
+ all time:    0.0732606
+ balance 1.00
+3 cut
+ cut arc : 7855
+ iotime:      0.017618
+ format time: 0.0323748
+ cmpt time:   0.013451
+ all time:    0.0634438
+ balance 1.00
+4 cutcut 
+ arc : 8106
+ iotime:      0.0186757
+ format time: 0.0343211
+ cmpt time:   0.0140046
+ all time:    0.0670015
+ balance 1.00
+5 cut
+ cut arc : 8131
+ iotime:      0.0182513
+ format time: 0.0335363
+ cmpt time:   0.0137477
+ all time:    0.0655353
+ balance 1.00
+10 cut
+ cut arc : 8893
+ iotime:      0.0175397
+ format time: 0.0322308
+ cmpt time:   0.013177
+ all time:    0.0629476
+ balance 1.00
+
+new-site
+node 27917 arc 206259
+2 cut
+ cut arc : 8418
+ iotime:      0.021668
+ format time: 0.0331936
+ cmpt time:   0.0201344
+ all time:    0.074996
+ balance 1.00
+3 cut
+ cut arc : 9055
+ iotime:      0.0222506
+ format time: 0.0340823
+ cmpt time:   0.0207201
+ all time:    0.077053
+ balance 1.00
+4 cutcut 
+ arc : 9106
+ iotime:      0.0222506
+ format time: 0.0340823
+ cmpt time:   0.0207201
+ all time:    0.077053
+ balance 1.00
+5 cut
+ cut arc : 9131
+ iotime:      0.0222513
+ format time: 0.0340865
+ cmpt time:   0.0205242
+ all time:    0.076862
+ balance 1.00
+10 cut
+ cut arc : 9893
+ iotime:      0.0210659
+ format time: 0.0322658
+ cmpt time:   0.0194743
+ all time:    0.072806
+ balance 1.00
+
+gemsec-deezer
+node 143884 arc 846915
+2 cut
+cut arc : 20893
+iotime:      0.21278
+format time: 0.32591
+cmpt time:   0.19854
+all time:    0.73723
+balance 1.00
+3 cut
+cut arc 21001
+iotime:      0.198348
+format time: 0.30395
+cmpt time:   0.186682
+all time:    0.68898
+ balance 1.0001
+4 cut
+cut arc 21289
+iotime:      0.210935
+format time: 0.323081
+cmpt time:   0.197354
+all time:    0.73137
+ balance 1.00
+5 cut
+cut arc 23870
+iotime:      0.215045
+format time: 0.329383
+cmpt time:   0.198182
+all time:    0.74261
+ balance 1.00
+10 cut
+cut arc 30186
+iotime:      0.217911
+format time: 0.333762
+cmpt time:   0.200677
+all time:    0.75235
+ balance 1.00
+
+twitter
+node 61578414 arc 1468365182
+2 cut
+cut arc : 237366143
+iotime:      258.655
+format time: 344.873
+cmpt time:   193.262
+all time:    796.789
+balance 1.04
+3 cut
+cut arc : 362323534
+iotime:      257.58
+format time: 343.44
+cmpt time:   189.888
+all time:    790.908
+balance 1.00
+4 cut
+cut arc : 416724538
+iotime:      258.955
+format time: 345.274
+cmpt time:   192.118
+all time:    796.347
+balance 1.002
+5 cut
+cut arc : 488875795
+iotime:      264.413
+format time: 352.551
+cmpt time:   192.247
+all time:    809.21
+balance 1.09
+10 cut
+cut arc : 595942924
+iotime:      257.231
+format time: 342.975
+cmpt time:   181.907
+all time:    782.114
+
+
+
+ 
